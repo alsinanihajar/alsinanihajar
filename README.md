@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I’m Hajar, based, Saudi Arabia.  
+I’m Hajar, 
 Curiosity drives everything I do more than titles or roles.
 
 - 🧠 When something doesn’t make sense, I can’t move on until I break it down and see how all the pieces connect  
