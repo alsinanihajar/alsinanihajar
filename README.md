@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**alsinanihajar/alsinanihajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Hajar, based, Saudi Arabia.  
+Curiosity drives everything I do more than titles or roles.
 
-Here are some ideas to get you started:
+- 🧠 When something doesn’t make sense, I can’t move on until I break it down and see how all the pieces connect  
+- 🔍 I approach technology, data, and problem-solving by digging deep until the full picture becomes clear  
+- ⚙️ I’m especially interested in logic-driven systems, human behavior, and how the brain influences the way we think and act  
+- 📊 This curiosity shows up in my work, whether I’m building projects, analyzing data, or teaching others  
+- 🛠️ My core tech stack includes Python, Tableau, Power BI, SQL, and web div   
+- 💻 I work daily with tools like Jupyter Notebook, XAMPP, and Canva  
+- 🚀 I’m most motivated by challenges—when something feels difficult or unclear, that’s where I focus my energy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A few things about me:**  
+- ☕ I love coffee  
+- 📚 I’m constantly hungry for new information
+- 🧩 I read about the human brain and behavior out of pure curiosity  
+- 🎧 Music helps me think  
+- 🍝 I enjoy cooking pasta from scratch  
+
